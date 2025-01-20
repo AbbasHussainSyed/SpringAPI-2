@@ -1,1 +1,1 @@
-SpringAPI - REST API Application using Springboot, maven, Apache, java
+SpringAPI - REST API Application using Springboot, Maven, Apache, Java
